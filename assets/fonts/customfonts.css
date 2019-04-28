@@ -1,0 +1,11 @@
+/* FONT */
+@font-face {   
+font-family: 'TYPO-COMICS-Italic';   
+src:url('TYPO-COMICS-Italic.ttf.woff') format('woff'),       
+url('TYPO-COMICS-Italic.ttf.svg#TYPO-COMICS-Italic') format('svg'),       
+url('TYPO-COMICS-Italic.ttf.eot'),
+url('TYPO-COMICS-Italic.ttf.eot?#iefix') 
+format('embedded-opentype'); 
+font-weight: normal;   
+font-style: normal;
+}
